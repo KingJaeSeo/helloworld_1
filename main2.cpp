@@ -24,6 +24,7 @@ int main(int argc, char* argv[]) {
 	double d2 = 1200.0;
 	double d3 = 12e2;// 12 * (10^2)
 	double d4 = 1.2e+3;// 1.2 * (10^3) * 굳이 이렇게 계산하는 이유 (아주 높은 값을 편하게 표기하기 위해)
+	double d5 = 1.2e-3;// 1.2 * (0.1^3)
 	cout << d1 << " " << d2 << " " << d3 << " " << d4 << endl;
 
 

@@ -1,3 +1,4 @@
+/*
 #include<iostream>
 
 using namespace std;
@@ -45,3 +46,4 @@ int main()
 	cout << "Number : Salary : &" << anEmployee.salary << endl;
 	return 0;
 }
+*/
